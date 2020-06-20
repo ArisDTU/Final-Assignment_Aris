@@ -1,10 +1,4 @@
-rasterio
-numpy as np
-matplotlib.pyplot as plt
-matplotlib as mlp
-pandas as pd
-urllib.request
-zipfile
-os
-from rasterio.plot import show   
-from matplotlib.colors import LogNorm    
+pandas==1.0.3
+numpy==1.17.5
+geopy==1.22.0
+watermark==2.0.2
