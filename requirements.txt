@@ -1,5 +1,5 @@
 rasterio
-import numpy as np
+import numpy as np====1.17.5
 import matplotlib.pyplot as plt
 import pandas as pd
 urllib.request
