@@ -7,3 +7,4 @@ matplotlib
 urllib3            
 zipfile2                     
 os_command_py
+geopandas
