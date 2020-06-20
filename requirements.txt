@@ -3,7 +3,7 @@ numpy==1.17.5
 geopy==1.22.0
 watermark==2.0.2
 rasterio                    
-matplotlib.pyplot as plt    
+matplotlib.pyplot  
 urllib.request              
 zipfile                     
 os 
