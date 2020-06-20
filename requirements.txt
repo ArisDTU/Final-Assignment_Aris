@@ -5,5 +5,5 @@ watermark==2.0.2
 rasterio                    
 matplotlib
 urllib3            
-zipfile                     
+zipfile2                     
 os 
