@@ -6,4 +6,4 @@ rasterio
 matplotlib
 urllib3            
 zipfile2                     
-os 
+os_command_py
