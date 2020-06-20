@@ -1,0 +1,7 @@
+rasterio
+numpy
+matplotlib.pyplot
+pandas
+urllib.request
+zipfile
+os
