@@ -1,7 +1,7 @@
 rasterio
-numpy
-matplotlib.pyplot
-pandas
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
 urllib.request
 zipfile
 os
