@@ -4,6 +4,6 @@ geopy==1.22.0
 watermark==2.0.2
 rasterio                    
 matplotlib
-urllib            
+urllib3            
 zipfile                     
 os 
