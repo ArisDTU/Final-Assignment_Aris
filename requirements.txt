@@ -1,7 +1,10 @@
 rasterio
-import numpy==1.17.5
-import matplotlib.pyplot as plt
-import pandas as pd
+numpy as np
+matplotlib.pyplot as plt
+matplotlib as mlp
+pandas as pd
 urllib.request
 zipfile
 os
+from rasterio.plot import show           # visualize multiband imagery
+from matplotlib.colors import LogNorm    # using a logarithmic mapping of values to color scale
