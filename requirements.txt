@@ -9,4 +9,4 @@ zipfile2
 os_command_py
 geopandas
 libpysal
-pysal
+pysal==2.2.0
