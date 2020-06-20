@@ -6,5 +6,5 @@ pandas as pd
 urllib.request
 zipfile
 os
-from rasterio.plot import show           # visualize multiband imagery
-from matplotlib.colors import LogNorm    # using a logarithmic mapping of values to color scale
+from rasterio.plot import show   
+from matplotlib.colors import LogNorm    
